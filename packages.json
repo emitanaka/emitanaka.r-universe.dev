@@ -10,5 +10,45 @@
   {
     "package": "deggust",
     "url": "https://github.com/emitanaka/deggust"
+  },
+  {
+    "package": "canvasquiz",
+    "url": "https://github.com/emitanaka/canvasquiz"
+  },
+  {
+    "package": "shinycustomloader",
+    "url": "https://github.com/emitanaka/shinycustomloader"
+  },
+  {
+    "package": "anicon",
+    "url": "https://github.com/emitanaka/anicon"
+  },
+  {
+    "package": "smbdata",
+    "url": "https://github.com/emitanaka/smbdata"
+  },
+  {
+    "package": "dir",
+    "url": "https://github.com/emitanaka/dir"
+  },
+  {
+    "package": "datalegreyar",
+    "url": "https://github.com/emitanaka/datalegreyar"
+  },
+  {
+    "package": "granular",
+    "url": "https://github.com/csiro-crop-informatics/granular"
+  },
+  {
+    "package": "emend",
+    "url": "https://github.com/anuopensci/emend"
+  },
+  {
+    "package": "metaextractoR",
+    "url": "https://github.com/DanyangDai/metaextractoR"
+  },
+  {
+    "package": "heritable",
+    "url": "https://github.com/anu-aagi/heritable"
   }
 ]
