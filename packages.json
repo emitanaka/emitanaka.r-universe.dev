@@ -50,5 +50,13 @@
   {
     "package": "heritable",
     "url": "https://github.com/anu-aagi/heritable"
+  },
+  {
+    "package": "yowie",
+    "url": "https://github.com/numbats/yowie"
+  },
+  {
+    "package": "moodlequiz",
+    "url": "https://github.com/numbats/moodlequiz"
   }
 ]
